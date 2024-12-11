@@ -4,7 +4,6 @@ import com.questions.exam.demo.Question;
 import com.questions.exam.demo.exception.QuestionNotFoundException;
 import com.questions.exam.demo.servise.QuestionService;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.Collection;
 
 @RestController

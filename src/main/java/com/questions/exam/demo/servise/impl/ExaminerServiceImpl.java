@@ -5,7 +5,6 @@ import com.questions.exam.demo.exception.QuestionAmountMismatchException;
 import com.questions.exam.demo.servise.ExaminerService;
 import com.questions.exam.demo.servise.QuestionService;
 import org.springframework.stereotype.Service;
-
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
