@@ -16,11 +16,9 @@ public class Question {
         return answer;
     }
 
-
     public String getQuestion() {
         return question;
     }
-
 
     @Override
     public String toString() {
